@@ -2,6 +2,7 @@
    Full Serial monitored a
    vionics code 1.0.0
    ADXL377 (high G accel)+ BMX160 (Low G accel + gyro + mag)+ BMP388 (Pressure + temp)
+   Check Libraries
  */
 
 
